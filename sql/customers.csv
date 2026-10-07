@@ -1,0 +1,6 @@
+﻿customer_id,first_name,last_name,email,city,join_date
+101,Alice,Smith,alice@example.com,New York,15/01/2023
+102,Bob,Johnson,bob@example.com,Chicago,22/03/2023
+103,Charlie,Brown,charlie@example.com,New York,10/05/2023
+104,Diana,Prince,diana@example.com,Los Angeles,01/07/2023
+105,Evan,Wright,evan@example.com,Chicago,18/11/2023

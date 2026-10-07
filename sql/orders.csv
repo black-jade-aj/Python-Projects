@@ -1,0 +1,9 @@
+﻿order_id,customer_id,product_name,category,quantity,unit_price,order_date
+5001,101,Wireless Mouse,Electronics,2,25.5,10/01/2024
+5002,102,Desk Lamp,Home,1,45,12/01/2024
+5003,101,Mechanical Keyboard,Electronics,1,120,15/01/2024
+5004,103,Coffee Mug,Kitchen,4,12.5,01/02/2024
+5005,104,Ergonomic Chair,Furniture,1,250,14/02/2024
+5006,102,USB-C Cable,Electronics,3,15,20/02/2024
+5007,105,Notebook,Stationery,5,5,05/03/2024
+5008,101,Monitor Stand,Office,1,65,11/03/2024
